@@ -28,3 +28,4 @@ DATABASE:- it contains the 4 tables that stores the values retrieved from the js
 2).Creator:- has all the details for the user.
 3). Company:- has the details of the company from which the user has bought the product.
 4). OrderProduct:- contains the details of the product and type of the pricing.
+
