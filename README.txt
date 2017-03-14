@@ -1,3 +1,5 @@
+All the packages and related JAVA files can be found in web13 -> src -> com -> avengers / com -> siddhart
+
 This is project integrates Appdirect API's with the web applications 'web13' running on local system and hosted on ngrok,
 The project has servlets which are helping to integrate our application by providing cerate and cancel subscription handling 
 controllers.
@@ -28,7 +30,3 @@ DATABASE:- it contains the 4 tables that stores the values retrieved from the js
 2).Creator:- has all the details for the user.
 3). Company:- has the details of the company from which the user has bought the product.
 4). OrderProduct:- contains the details of the product and type of the pricing.
-
-
-
-All the packages and related JAVA files can be found in web13 -> src -> com -> avengers / com -> siddhart
